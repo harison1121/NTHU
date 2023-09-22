@@ -10,5 +10,6 @@
 ```
 
 ## Test result by Jupyter Notebook
-
+![image](https://github.com/harison1121/NTHU/blob/main/course_lab/lab1/380812262_2039037249783587_1193841293024935150_n.png)
+![image](
 
